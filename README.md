@@ -1,3 +1,7 @@
+#### 공동작업 GitHub 링크
+- https://github.com/kys97/KDT_FinalProject/tree/Monster
+---
+
 # PuffPebble (ref - 롱빈터, 메이플)  
 몬스터를 처치하며 레벨을 올리며 성장하는 게임
 
@@ -10,9 +14,6 @@
 #### 담당 역할
 - **본인** : 몬스터와 관련된 기능 및 UI, 맵 디자인
 - **팀원** : 플레이어 캐릭터와 관련된 기능 구현 및 UI, 전체적인 UI
-
-#### 공동작업 GitHub 링크
-- https://github.com/kys97/KDT_FinalProject/tree/Monster
 
 ---
 ---
